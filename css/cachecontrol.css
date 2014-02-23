@@ -1,0 +1,29 @@
+#cachestatic{
+	width:99%;
+	height:2px;
+	border:1px solid #000;
+	overflow:hidden;}
+#cachestaticbar{
+	alignment-adjust:central;
+	width:0%;
+	height:2px;
+	border-right: 1px solid #000000;
+	background: #d65946;}
+#cachestatictext{
+	display: inline;
+	color: #000105;
+	width:95%;
+	height:6px;
+	font-size: 10px;
+	font-style: italic;
+	font-weight: bold;
+	left: 4px;
+	position: relative;
+	top: -5px;}
+#cachesize{
+  float:right;
+  font-weight:bolder;
+  margin-right:5px;
+  font-size:10px; 
+    display:inline;	
+	}
